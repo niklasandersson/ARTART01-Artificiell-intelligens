@@ -1,0 +1,58 @@
+* Artificiell intelligens 1, poäng 
+** Ämnesbeskrivning
+Artificiell intelligens (AI) är förmågan hos datorprogram och robotar att efter­likna mänsklig intelligens. AI tillämpas inom olika områden och används i arbete, utbildning och vardagsliv. Ämnet artificiell intelligens behandlar AI-utvecklingen framför allt ur ett samhällsperspektiv och utforskar vilka konse­kvenser det kan ha för det dagliga livet.
+
+** Syfte
+Undervisningen i ämnet artificiell intelligens ska syfta till att eleverna utvecklar kunskaper om centrala begrepp och tekniker inom AI och ge en introduk­tion till och överblick av AI och dess tillämpningar.
+
+I undervisningen ska eleverna ges möjlighet att utveckla förståelse av hur AI påverkar det dagliga livet och vår bild av omvärlden. Undervisningen ska därför ge eleverna möjlighet att utveckla kunskaper om AI och dess bakomliggande funktionssätt, primära beståndsdelar och uppbyggnad. Eleverna ska även ges möjlighet att utveckla kunskaper om för AI relevanta lagar och andra bestämmelser. På så sätt ska eleverna ges möjlighet att utveckla förmåga att göra juridiska, etiska, ekonomiska och säkerhetsmässiga överväganden inom ämnet.
+
+Undervisningen ska belysa tänkbara möjligheter med och konsekvenser av teknikens användning och hur den kan bidra till hållbar utveckling. AI skapas för att efterlikna mänsklig intelligens och därför ska undervisningen ge elev­erna möjlighet att utveckla kunskaper om likheter och skillnader mellan den mänskliga intelligensen och den artificiella.
+
+Undervisningen ska varva teoretiska moment med praktiska och ge elev­erna möjlighet att använda olika digitala verktyg och programvaror samt att programmera. På så vis ska eleverna ges möjlighet att utveckla förståelse av hur AI kan användas i problemlösning och förmåga att omsätta sina kunskaper till praktiska handlingar. Undervisningen ska även lämna utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ inom artificiell intelligens.
+
+*Undervisningen i ämnet artificiell intelligens ska ge eleverna förutsättningar att utveckla följande:*
+1. Kunskaper om AI, dess tillämpningar, tekniker och beståndsdelar.
+2. Förmåga att använda AI i problemlösning.
+3. Kunskaper om skillnader och likheter mellan mänsklig och artificiell intelligens.
+4. Kunskaper om lagar och andra bestämmelser relevanta för AI.
+5. Förmåga att resonera om möjligheter och risker med AI och dess konsekvenser för samhället.
+
+** Centralt innehåll
+*** Artificiell intelligens
+**** Definition av AI samt centrala begrepp inom området.
+**** Vikten av data, datakvalitet för AI och val av data.
+**** Drivkrafter bakom utvecklingen av AI.
+**** Översikt över användningen av AI, däribland prediktion, robotik, vision och generativ AI samt olika tekniker och metoder som ligger bakom dessa.
+**** Översikt av tekniker för AI, däribland sökning, klassificering och objekt­igenkänning.
+**** Översikt av metoder och algoritmer inom AI, däribland beslutsträd, re­gression samt övervakat och oövervakat lärande.
+*** Praktisk användning av AI
+**** Översikt över processen för problemlösning med AI.
+**** Enklare typ av problemlösning med hjälp av AI, till exempel klassificering, objektigenkänning, prediktion, tolkning och bearbetning av naturligt språk (NLP), enklare maskininlärning och användning av spelagent.
+**** Principer för, och tillämpningar av, vanliga tekniker inom AI, däribland maskininlärning och robotik.
+**** Metoder för enklare träning av AI.
+*** Förhållningssätt till AI
+**** Jämförelse mellan hur enklare lösningar med AI fungerar och hur en människa löser samma problem.
+**** Några situationer där AI är överlägsen människan och tvärtom.
+**** Normer samt lagar och andra bestämmelser som gäller AI och dess användning.
+**** Etiska dilemman med användandet av AI, däribland transparens.
+**** Demokratiska, sociala, ekonomiska, miljömässiga och säkerhetsmässiga möjligheter och risker med AI-användning samt dess konsekvenser för samhället.
+** Betygskriterier
+*** Betyget E
+**** Eleven visar godtagbara kunskaper om AI, dess tillämpningar, tekniker och beståndsdelar.
+**** Eleven använder med viss säkerhet AI för att lösa enkla problem.
+**** Eleven gör enkla jämförelser av mänsklig och artificiell intelligens.
+**** Eleven redogör på ett godtagbart sätt för lagar och andra bestämmelser som gäller för AI.
+**** Eleven för enkla resonemang om möjligheter och risker med AI samt dess konsekvenser för samhället.
+*** Betyget C
+**** Eleven visar goda kunskaper om AI, dess tillämpningar, tekniker och beståndsdelar.
+**** Eleven använder med säkerhet AI för att lösa enkla problem.
+**** Eleven gör välgrundade jämförelser av mänsklig och artificiell intelligens.
+**** Eleven redogör på ett utvecklat sätt för lagar och andra bestämmelser som gäller för AI.
+**** Eleven för utvecklade resonemang om möjligheter och risker med AI samt dess konsekvenser för samhället.
+*** Betyget A
+**** Eleven visar mycket goda kunskaper om AI, dess tillämpningar, tekniker och beståndsdelar.
+**** Eleven använder med god säkerhet AI för att lösa enkla problem.
+**** Eleven gör välgrundade och nyanserade jämförelser av mänsklig och artificiell intelligens.
+**** Eleven redogör på ett välutvecklat sätt för lagar och andra bestämmelser som gäller för AI.
+**** Eleven för utvecklade och nyanserade resonemang om möjligheter och risker med AI samt dess konsekvenser för samhället.
